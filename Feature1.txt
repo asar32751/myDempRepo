@@ -1,7 +1,6 @@
 public class feature1{
 public static void main(String[]args){
-System.out.println("new feature added in feature branch");
-System.out.println("more new feature added in feature branch");
+System.out.println("new feature 1 added in feature branch on 3june");
 
 
 
